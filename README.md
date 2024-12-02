@@ -9,6 +9,9 @@ As measured by the unemployment rate, unemployment has sharply increased during 
 Dataset
 The dataset utilized in this analysis offers comprehensive insights into the unemployment dynamics during the COVID-19 crisis across India's states. It provides crucial information for understanding how different regions of the country have been affected. The dataset includes key indicators such as the unemployment rate, employment figures, and labour participation rates.
 
+for dataset
+https://www.kaggle.com/api/v1/datasets/download/gokulrajkmv/unemployment-in-india
+
 Task 2: 
 Project: 80 Cereals uses the data “80 Cereals”, which is a dataset composed of 77 entries with 16 measured variables. We will use statistical methods to analyze a dataset of cereal ratings in order to effectively predict a person's rating for a cereal. We will test our predictions by answering the questions listed below.
 * What are the most popular types of cereals and brands?
@@ -18,6 +21,9 @@ Project: 80 Cereals uses the data “80 Cereals”, which is a dataset composed 
 
 Through the utilization of a Random Forest Regressor, we gain valuable insights into which features wield the greatest influence on predicting consumer ratings. The bar chart showcases sugars and calories as two pivotal factors contributing to our ability to forecast ratings. Therefore,if ever we develop a machine learning model, sugars and calories emerge as the best candidates for predictor variables. With this, we can ready our data for the first step of Feature Engineering, which is Feature Selection.
 
+for dataset
+https://www.kaggle.com/api/v1/datasets/download/crawford/80-cereals
+
 Task 3:
 Project Title: Wine Quality Prediction
 
@@ -25,6 +31,9 @@ The objective of this project is to analyze a dataset of red wine properties and
 
 The project involves the analysis of a wine quality dataset, encompassing both exploratory data analysis and machine learning modeling. This comprehensive approach aims to gain insights into the relationships between various chemical properties and wine quality, while also demonstrating the steps involved in data preparation, modeling, and evaluation.
 I'm gaining insights into what dataset can be viewed as classification or regression tasks
+
+for dataset
+https://www.kaggle.com/api/v1/datasets/download/uciml/red-wine-quality-cortez-et-al-2009
 
 Acknowledgements
 Special thanks to kaggle for providing the data used in this analysis.
